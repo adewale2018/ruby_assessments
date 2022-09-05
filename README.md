@@ -1,3 +1,3 @@
-### ruby_assessments
+# ruby_assessments
 
 ## Learning Ruby programming language for backend development.
